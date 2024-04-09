@@ -4,19 +4,19 @@
     "url": "http://solutionwiki.enhawiki.kr:3000",
     "icon": "https://icons.duckduckgo.com/ip3/solutionwiki.enhawiki.kr.ico",
     "slug": "solutionwiki",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 913,
-    "timeDay": 959,
-    "timeWeek": 913,
-    "timeMonth": 913,
-    "timeYear": 913,
+    "status": "up",
+    "uptime": "99.87%",
+    "uptimeDay": "99.10%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.87%",
+    "time": 910,
+    "timeDay": 923,
+    "timeWeek": 910,
+    "timeMonth": 910,
+    "timeYear": 910,
     "dailyMinutesDown": {
-      "2024-04-09": 0
+      "2024-04-09": 13
     }
   }
 ]
