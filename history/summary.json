@@ -5,18 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/solutionwiki.enhawiki.kr.ico",
     "slug": "solutionwiki",
     "status": "up",
-    "uptime": "99.87%",
-    "uptimeDay": "99.10%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.87%",
-    "uptimeYear": "99.87%",
-    "time": 910,
-    "timeDay": 923,
-    "timeWeek": 910,
-    "timeMonth": 910,
-    "timeYear": 910,
-    "dailyMinutesDown": {
-      "2024-04-09": 13
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 892,
+    "timeDay": 809,
+    "timeWeek": 855,
+    "timeMonth": 892,
+    "timeYear": 892,
+    "dailyMinutesDown": {}
   }
 ]
